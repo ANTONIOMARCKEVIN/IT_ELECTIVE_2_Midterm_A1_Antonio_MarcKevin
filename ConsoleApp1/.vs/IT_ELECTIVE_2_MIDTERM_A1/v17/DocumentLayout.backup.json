@@ -1,21 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IT_Elective2WEb\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|d:\\it_elective2web\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\downloads\\antonio\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|d:\\it_elective2web\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\wwwroot\\css\\site.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\downloads\\antonio\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|d:\\it_elective2web\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\views\\shared\\_layout.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\downloads\\antonio\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\downloads\\antonio\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\downloads\\antonio\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\downloads\\antonio\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\downloads\\antonio\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\views\\shared\\_layout.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|d:\\it_elective2web\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\downloads\\antonio\\it_elective_2_midterm_a1_antonio_marckevin\\consoleapp1\\webapplication1\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5E208DFF-EE8F-44F6-8E8C-42441671A944}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -26,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -45,58 +61,106 @@
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WebApplication1",
-              "DocumentMoniker": "D:\\IT_Elective2WEb\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\WebApplication1.csproj",
-              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
-              "ToolTip": "D:\\IT_Elective2WEb\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\WebApplication1.csproj",
-              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-17T13:59:35.175Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\IT_Elective2WEb\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\IT_Elective2WEb\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-07-17T13:59:14.423Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T04:47:12.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\IT_Elective2WEb\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\IT_Elective2WEb\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwEAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-07-17T13:59:01.956Z",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T03:34:25.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Projects.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T03:12:31.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Skills.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Skills.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Skills.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Skills.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Skills.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T03:12:08.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T03:03:24.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\IT_Elective2WEb\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\IT_Elective2WEb\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAgwKEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T02:53:34.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T13:59:01.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\Downloads\\ANTONIO\\IT_ELECTIVE_2_Midterm_A1_Antonio_MarcKevin\\ConsoleApp1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-17T13:58:51.652Z",
               "EditorCaption": ""
             }
