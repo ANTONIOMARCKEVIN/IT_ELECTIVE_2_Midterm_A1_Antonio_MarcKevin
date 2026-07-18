@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+}
+
+<section id="about" class="bg-white">
+    <div class="container">
+        <h2 class="display-6 fw-bold text-dark mb-4 text-center text-md-start">About Me</h2>
+        <div class="row">
+            <div class="col-lg-8">
+                <p class="text-secondary">
+                    @ViewData["About Me"]
+                </p>
+                <p class="text-secondary">
+                    @ViewData["About Me2"]
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <div class="card bg-light border-0 p-4 shadow-sm">
+                    <h5 class="fw-bold text-primary mb-3">Quick Background</h5>
+                    <ul class="list-unstyled mb-0">
+                        <li class="mb-2"><strong>@ViewData["Quick Background"]</li>
+                        <li class="mb-2"<strong>@ViewData["Quick Background2"]</li>
+                        <li class="mb-2"<strong>@ViewData["Quick Background3"]</li>
+                        <li><strong>@ViewData["Quick Background4"]</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
